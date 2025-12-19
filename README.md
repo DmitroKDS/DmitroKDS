@@ -125,7 +125,7 @@ I am python backend software engineer with 4 years of experience. Proficient in 
 </details>
 
 
-## You can contact to me
+## You can contact me
 
 <ul>
   <li>Phone: +380665912275</li>
